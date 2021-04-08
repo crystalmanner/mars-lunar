@@ -1,0 +1,7 @@
+.top-navs .v-item-group {
+  margin-left: auto;
+  margin-right: 30px;
+}
+.right-pane {
+  width: calc(100% - 256px);
+}
